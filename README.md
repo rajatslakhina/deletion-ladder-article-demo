@@ -2,7 +2,7 @@
 
 A Swift package and iOS demo app that turns the "laziest senior dev" decision ladder into a gate you can run, with one addition the line count alone misses: **a protected floor**. The gate only removes validation, error handling, security or accessibility code when the API that replaces it does the same job.
 
-Article: (added after publish)
+Article: [Prompt Your Coding Agent to Write Less Code. Just Don't Score It by Lines Deleted.](https://medium.com/@er.rajatlakhina/prompt-your-coding-agent-to-write-less-code-just-dont-score-it-by-lines-deleted-748600836467)
 
 ![The demo app on an iPhone Simulator: twelve agent-written changes, each with the rung where the ladder stopped and its line count before and after](Demo/Screenshots/ladder.png)
 
